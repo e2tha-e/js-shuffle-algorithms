@@ -19,8 +19,8 @@ Sample results:
 021: 609
 102: 1290
 120: 615
-210: 3101
 201: 650
+210: 3101
 ```
 
 #### `node fisher-yates.js`
@@ -31,8 +31,8 @@ Sample results:
 021: 1636
 102: 1687
 120: 1633
-210: 1668
 201: 1682
+210: 1668
 ```
 
 While the Array.sort() + Math.random() algorithm is consistently faster, it is 
